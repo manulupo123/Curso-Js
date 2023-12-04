@@ -16,3 +16,5 @@ console.log(num4-num3)
 let num6=5
 console.log(num5*num6)
 let resultadofinal=44
+
+//ejercicio 3
